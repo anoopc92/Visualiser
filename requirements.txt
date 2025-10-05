@@ -3,3 +3,5 @@ pandas>=2.0.0
 numpy
 plotly
 altair
+seaborn==0.12.2
+scipy==1.11.2
