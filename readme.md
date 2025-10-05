@@ -21,6 +21,8 @@ Coming soon! (After deployment)
 - **NumPy** - Numerical computing
 - **Seaborn** - Statistical visualizations
 
+- Try out the app here https://lrjpg2qe5cfshnswwgxlma.streamlit.app/?
+
 ## 📦 Installation
 
 1. Clone this repository:
